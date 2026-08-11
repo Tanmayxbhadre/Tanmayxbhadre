@@ -1,16 +1,36 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Tanmayxbhadre/Tanmayxbhadre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Tanmay 👋
 
-Here are some ideas to get you started:
+### Computer Science Student • Developer • Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like turning ideas into useful software.
+
+I build web applications, developer tools and AI-powered projects
+while constantly learning something new.
+
+<p>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```text
+🎓 Computer Science Student
+💻 Interested in Software Engineering
+🤖 Exploring AI / ML
+🌐 Building full-stack applications
+🚀 Turning ideas into real products
+🧠 Learning by building
