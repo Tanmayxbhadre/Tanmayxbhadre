@@ -8,13 +8,13 @@
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="createwithtanmay.in">
   <img src="https://img.shields.io/badge/Portfolio-%23000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>&nbsp;
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/tanmay-bhadre-926a13372/">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;
-<a href="mailto:YOUR_EMAIL">
+<a href="tanmaybhadre6@gmail.com">
   <img src="https://img.shields.io/badge/Email-%23EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>&nbsp;
 <a href="https://github.com/Tanmayxbhadre">
@@ -60,10 +60,9 @@ This isn't a menu bar app. IslandFlow is a precision overlay built directly on A
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **IslandFlow** | Native macOS Dynamic Island-style overlay for MacBook | Swift, SwiftUI, AppKit | [→](https://github.com/Tanmayxbhadre/IslandFlow) |
-| **CleanDoc** | Document organization system with auto-sort, section management, and file workflows | Node.js, Express, HTML/CSS/JS | [→](https://github.com/Tanmayxbhadre) |
+| **IslandFlow** | Native macOS Dynamic Island-style overlay for MacBook | Swift, SwiftUI, AppKit | [→](islandflow.netlify.app |
+| **CleanDoc** | Document organization system with auto-sort, section management, and file workflows | Node.js, Express, HTML/CSS/JS | [→](cleandoc.netlify.app) |
 | **YT Shorts Bot** | AI pipeline: downloads videos → detects viral moments → crops to 9:16 → uploads to YouTube | Python, Claude AI, Whisper, ffmpeg | [→](https://github.com/Tanmayxbhadre) |
-| **StudyMate** | Student platform for academic notes, resources, and document management | Node.js, Express, MongoDB | [→](https://github.com/Tanmayxbhadre) |
 
 ---
 
@@ -160,7 +159,7 @@ Open to conversations about:
 - Open source
 - Software engineering
 
-Reach out on [LinkedIn](YOUR_LINKEDIN_URL) or drop an [email](mailto:YOUR_EMAIL).
+Reach out on [LinkedIn](https://www.linkedin.com/in/tanmay-bhadre-926a13372/) or drop an [email](hello@createwithtanmay.in).
 
 ---
 
