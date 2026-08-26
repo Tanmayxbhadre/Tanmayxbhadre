@@ -1,4 +1,4 @@
-
+<!--
 # Tanmay Bhadre 👋
 
 <p><strong>Computer Science Student &nbsp;·&nbsp; Software Developer &nbsp;·&nbsp; Builder</strong></p>
@@ -185,3 +185,4 @@ Git · GitHub · VS Code · Xcode · Figma · Netlify
 <sub>Building in public · B.Sc. Computer Science · Maharashtra, India · <a href="https://www.createwithtanmay.in/">createwithtanmay.in</a></sub>
   <sub>Building in public · Maharashtra, India</sub>
 </div>
+-->
